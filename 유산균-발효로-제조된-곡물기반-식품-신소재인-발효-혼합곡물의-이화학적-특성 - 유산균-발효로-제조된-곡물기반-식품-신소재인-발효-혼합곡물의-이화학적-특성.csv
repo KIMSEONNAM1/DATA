@@ -1,0 +1,313 @@
+"ABSTRACT This study employed the lactic acid fermentation process on a grain mixture (GM) composed of soybean,"
+"barley, brown rice, and wheat to formulate a novel cereal-based food material. Strains of lactic acid bacteria including"
+"Streptococcus lactis, Streptococcus thermophilus, and Lactobacillus acidophilus, along with Bifidobacterium longum"
+"KCTC 5734, were introduced into the GM. The mixture was cultivated aerobically at 37°C for 5 days, followed"
+"by freeze-drying to produce the fermented GM. Compared to the GM, the fermented GM exhibited decreased dietary"
+"fiber and protein-bound amino acid content, while there was an increase in soluble solids and free amino acid content."
+"In addition, the pH decreased with an increase in titratable acidity. The total reducing capacity was ten-fold higher,"
+"and oxidation stability improved, as evidenced by the lower amounts of malondialdehyde under an accelerated oxidation"
+system. These improvements could be attributed to the degradation of flavonoid glycosides into aglycone by the action
+"of β-glucosidase in the microorganisms. The content of γ-aminobutyric acid and ornithine increased, while the content"
+"of glutamic acid and arginine, their precursor amino acids, decreased. These changes can be attributed to the action"
+"of glutamate decarboxylase of S. thermophilus and S. lactis, as well as arginine deiminase of S. lactis. The sedimentation"
+"index decreased, indicating better dispersibility. These results showed the potential of lactic acid fermentation when"
+applied to mixed grains to develop novel food materials with unique functional attributes and physical characteristics
+that are distinctively different from those of the raw materials.
+
+"서        론                                        신소재 개발산업이 성장하고 있다(Sun 등, 2022; Yang 등,"
+2020). 이 중 오랜 역사를 지닌 발효는 미생물을 활용하는
+"현대인의 건강 지향적 소비패턴에 따라 식품 분야에서도                                                생물학적 처리기술로, 발효 조건을 조절하여 식품 원재료의"
+생리활성 성분을 탑재하거나 특정 물성을 부여하는 식품소                                                  화학적 조성을 변화시킴으로써 원하는 특성을 얻을 수 있어
+"재의 수요가 증가하고 있다(Granato 등, 2017; Putnik 등,                                       잠재력이 큰 식품가공기술로 인지되고 있다(Sun 등, 2022)."
+2018). 이러한 소비자의 니즈를 충족시키는 식품 원재료로                                               본 연구에서는 식품 원재료에 기능성을 부가해 차별화된 식
+"는 곡류, 채소류, 과일류, 견과류, 해조류 등 식물성 식품군                                              품 신소재를 개발하기 위해 전구체인 식품 원재료로는 곡물"
+"이 대표적이며, 이들 식품에 함유된 피토케미컬(phyto-                                                을, 식품가공기술로는 발효 공정을 활용하고자 하였다."
+"chemicals)의 항산화, 항암, 항염 등의 생리활성과 식이섬                                               곡물은 일상의 식단을 구성하는 주요한 식품 원재료로, 각"
+"유를 포함한 다당류의 물리적 기능성은 타깃 식품의 품질을                                                 지역의 식문화에 따라 밥, 떡, 빵, 시리얼과 그래놀라, 파스"
+"향상시키는 데 활용되고 있다(Putnik 등, 2018). 이와 관련                                          타, 면 등 다양한 형태로 조리 및 가공되어 소비되고 있다."
+"하여 최근에는 기존의 식품 원재료에 내용물 전달 기술                                                   곡물은 식이섬유 함량이 높고 단백질, 비타민, 무기질 등 필"
+"(delivery systems), 열처리 기술, 생물학적 처리기술 등                                         수영양소를 제공하고 있으나, 탄수화물로 편중된 주요 에너"
+"식품가공기술을 적용하여 새로운 기능성을 부가하는 식품                                                   지 공급원이다(Wheeler와 Pi-Sunyer, 2008). 따라서 건강"
+"지향과 간편성을 추구하는 소비자의 니즈를 충족하기 위해                           테르, 황산, 붕산, sodium hydroxide는 Showa Chemical"
+"서는 곡물 및 곡물 가공품에서도 이화학적 기능성을 개선하                          Industry Co.의 특급시약을 사용하였다. Protease, α-amy-"
+"기 위한 시도가 필요하다. 본 연구에서는 곡물의 주요 구성                         lase, amyloglucosidase는 Megazyme International Ire-"
+"성분이 탄수화물이라는 점을 고려하여 탄수화물 대사로 차                           land Ltd.에서 구매하였다. 2-Thiobarbituric acid(TBA,"
+"별화된 기능 성분 및 향미 성분 프로파일을 제공하는 유산균                         4,6-dihydroxy-2-mercaptopyrinidine 98%)는 Tokyo"
+"을 발효 공정의 미생물로 선정하였다.                                     Chemical Industry에서, ascorbic acid는 Junsei Chemi-"
+"유산균 발효 공정(lactic acid fermentation)은 미생물이              cal Co.에서, trichloroacetic acid(TCA)는 Wako Pure"
+"탄수화물을 대사하여 젖산으로 전환하고 생리활성을 보유                            Chemical Industries, Ltd.에서 각각 구입하였다. 시약 제조"
+한 다양한 대사체를 생성하는 능력을 식품에 활용한 바이오                          에는 탈염･탈이온수를 사용하였다.
+"공정이다. Streptococcus 속, Leuconostoc 속, Lactoba-"
+cillus 속의 유산균과 Bifidobacterium 속 비피더스균이 젖                발효 혼합곡물 제조
+"산발효 과정에 주도적으로 관여하여 최종 생성물의 화학적                             혼합곡물은 콩, 보리쌀, 현미, 밀을 4:2:2:2의 중량 비율로"
+조성과 나아가 관능적 품질특성을 변화시키는 데 기여한다.                          혼합한 후 지역소재 방앗간에서 곡물분쇄기로 분말화하여
+특히 젖산은 식품의 pH를 낮추어 유해균의 증식을 억제함으                         사용하였다(Fig. 1A). 혼합곡물 분말(2 kg)과 증류수(5 L)
+"로써 저장성을 높이고, 미생물 고유의 효소작용으로 생성된                          를 혼합하고 여기에 3종의 복합유산균 200 g과 B. longum"
+저분자 물질은 식품에 새로운 향미와 물성을 부여할 수 있다                         KCTC 5734균 100 g을 첨가하여 37°C에서 호기적으로 5
+"(Admassie, 2018; Sun 등, 2022).                           일 동안 배양(shaking incubator, SI-4000R, Jeio Tech)하"
+본 연구에서는 식품 매트릭스에 유익한 변화를 부여하는                          였다. 혼합곡물 분말과 증류수 혼합비율은 1:1부터 1:3까지
+"유산균 발효의 잠재력을 “혼합곡물(Grain mixture, GM)”                   증가시키면서 유산균 첨가 후 교반의 용이성을 고려하여 결"
+에 적용하여 “발효 혼합곡물(Fermented GM)”을 제조하고                     정하였다. 이후 배양액을 -80°C에서 24시간 동안 동결건조
+"이화학적 특성을 분석함으로써 식품 신소재로서 원재료와                            (FDU-1200, Eyela)하여 발효 혼합곡물로 사용하였다(Fig."
+는 차별화된 가치를 확인하고자 하였다. 구체적으로는 식물                          1B).
+유래 식품군에서 빈번히 관찰되는 제한아미노산에 의한 단
+백질의 질적 한계를 개선하기 위해 단일곡물이 아닌 혼합곡                          일반성분 및 식이섬유 분석
+"물을 사용하였다. 특히, 곡류 및 두류 중 단백질 함량이 비교                         일반성분은 AOAC 방법(Method 945.38)을 따랐다(AOAC,"
+"적 높고 아미노산 조성이 상호 보완되도록 콩, 보리, 현미,                        1990). 수분은 105°C 건조기(OF-12, Jeio Tech)를 이용한"
+"밀을 혼합곡물의 원재료들로 구성하였다. 또한 개별 미생물                          상압가열건조법, 조회분은 550°C 회화로(MF31G, Jeio"
+이 지닌 다양한 효소 활성의 이점을 종합적으로 활용하고자                          Tech)에서 직접회화법으로 분석하였다. 조단백질은 킬달
+"유산균 3종과 비피더스균 1종을 포함한 총 4종의 미생물을                         분해장치(Digestion unit K-424, Buchi), 증류장치(Kjel-"
+"함께 처리하였다. 이를 통해 곡물기반 식품 신소재를 다양화                         flex K-360, Buchi), 적정장치(702 SMTitrino Metrohm,"
+하는 데 발효 공정의 활용 가능성을 실제 실험 사례로 제시                         Buchi)를 연속으로 사용하여 micro-Kjeldahl법으로 분석
+하고자 하였다.                                                 하였으며 질소계수 6.25를 사용하여 함량을 산출하였다. 조
+"지방은 디에틸에테르를 용매로 하여 Soxhlet 장치(E-816,"
+재료 및 방법                               Buchi)로 추출하였다. 탄수화물은 차감법[100－(수분+조
+
+
+실험재료 및 시약
+"본 연구에서 사용한 곡물은 국내산 콩, 보리쌀, 현미, 밀로"
+강원도 삼척에서 구매하였다. 복합유산균(mixed lactic acid
+bacteria)과 비피더스균(bifidobacteria)은 셀바이텍에서
+구매하여 사용하였다. 복합유산균은 Streptococcus lactis
+"(1.0×109 CFU/g), Streptococcus thermophilus(1.0×109"
+"CFU/g), Lactobacillus acidophilus(1.0×109 CFU/g)가 혼"
+"합된 동결건조 생균제였으며, 비피더스균은 Bifidobacte-"
+rium longum KCTC 5734(1.0×1010 CFU/g)로 동결건조
+
+
+
+회분+조단백질+조지방)]으로 산출하였다.                            후 진공 농축과 건조과정을 통해 HCl을 제거하고 증류수로
+"식이섬유는 AOAC 방법(Method 985.29)에 따라(AOAC,          100 mL까지 정용한 후 0.45 μm syringe filter(AD. 13CP"
+"1990) 효소중량법(enzymatic-gravimetric method)으로       045AS, Advantec)로 여과시켜 아미노산 분석기(Hitach"
+"분석하였다. 시료에 효소(amylase, protease, amyloglu-        L-8800 amino acid, Hitachi)에 주입하였다. 유리아미노산"
+"cosidase)를 처리한 분해단계, 에탄올을 가하여 식이섬유를               분석을 위해서는 50 mL 원심분리관에 시료 약 5 g과 70%"
+"침전시킨 단계, 여과단계(Fibertec System E 1023 Filtra-      에탄올 30 mL를 넣어 1시간 동안 교반한 후 10분 동안 방치"
+"tion Module, Foss)를 순차적으로 거쳤다. 이후 반응물을            하였다. 10,500×g에서 15분 동안 원심분리(CP 100MX,"
+"105°C 상압가열건조법으로 건조하고 회분과 단백질을 각                   Hitachi)한 후 상층액을 농축 플라스크로 옮기고, 남은 침전"
+각 직접회화법과 micro-Kjeldahl법으로 정량하였다. 반응              물에 70% 에탄올 25 mL를 넣어 교반과 원심분리를 2회
+물의 건조중량에서 회분과 단백질 함량을 차감하여 식이섬                    추가 반복하고 상층액을 취하여 농축 플라스크에 합하였다.
+유 함량을 산출하였다.                                      진공 농축한 후 증류수로 150 mL까지 정용하고 0.45 μm
+syringe filter(AD. 13CP045AS)로 여과하여 아미노산 분
+"가용성 고형분, 적정산도, pH, 총환원력 및 색도 분석                   석기에 주입하였다. 이온교환수지 컬럼(Ion exchange col-"
+"시료 1 g에 증류수 19 mL를 첨가하여 homogenizer(Wise        umn, lithium form, 4.6 mm×60 mm, Hitachi)에 다양한"
+"Mix HG-15, Daihan Scientific)로 1분간 교반하였다. 3,061   pH와 이온강도를 가진 buffer를 흘려 아미노산을 분리하였"
+"×g에서 20분간 원심분리(5810R, Eppendorf)하여 얻은 상           다. 반응코일에서 아미노산이 ninhydrin과 반응하여 형성한"
+층액을 분석에 사용하였다. 가용성 고형분(soluble solids)            발색 화합물의 흡광도를 570 nm와 440 nm에서 측정하였
+"은 상층액의 굴절률(N-1α, Atago)을 측정하여 당 농도                다. 컬럼이 장착된 오븐 온도는 30~70°C, 반응코일 온도는"
+"(Degrees Brix, °Bx)로 나타내었으며, pH는 pH meter         135°C, 유속은 0.35 mL/min, 시료 주입액은 20 μL였다."
+"(725P, Istek)로 측정하였다. 증류수에 의한 희석배수는 측             아미노산 함량은 표준용액 1점을 주입하여 얻어진 크로마토"
+정된 값에 반영하지 않았다. 적정산도(titratable acidity)는         그램으로부터 농도와 면적의 비례식으로 계산되었다.
+0.01 N NaOH로 중화 적정하여 유산균 발효 중 주로 생성되
+"는 젖산(lactic acid, 60.05 g/mol) 당량으로 산출하였다.        입도분포, 물 결합력, 점도 및 분산성 분석"
+"총환원력은 Folin-Ciocalteu reagent법(Singleton 등,       Testing sieve 45(aperture 355 μm, wire diameter 224"
+"1999)으로 분석하였으며, 실험에 사용한 물 추출물은 다음                 μm, Chunggye)에 분말을 통과시킨 후 증류수에 분산시킨"
+"의 과정으로 준비하였다. 분말 1 g에 증류수(19 mL)를 첨가              상태로 입도분석기(particle size analyzer, Analysette22"
+"하여 25°C shaking water bath(BS-21, Jeio Tech)에서    Nano Tech, Fritsch)를 사용하여 0.10~300.03 μm 범위의"
+왕복운동(reciprocating motion) 모드로 교반하면서 30분          입자에 대해 입도분포(particle size distribution)를 측정하
+"간 추출하였다. 이후 3,061×g에서 20분간 원심분리(5810R)            였다. 입자 크기는 동일한 표면적의 구를 기준으로 산출된"
+"하여 얻은 상층액을 물 추출물로 사용하였다. 물 추출물 200                “표면적 평균직경(surface weighted mean diameter, d32="
+"μL에 증류수 800 μL를 넣고, Folin-Ciocalteu’s reagent와    ∑nidi3/∑nidi2)”, 동일한 부피의 구를 기준으로 산출된 “부피"
+"Na2CO3를 각각 1 mL씩 넣어 상온에서 1시간 반응시켰다.               평균직경(volume-weighted mean diameter, d43=∑nidi4/"
+"반응물의 흡광도를 spectrophotometer(UV-1650, Shi-         ∑nidi3)”, 비표면적(specific surface area per volume,"
+madzu)로 700 nm에서 측정하였다. 총환원력은 갈산 당량               cm2/cm3)으로 나타내었다. 물 결합력은 Medcalf와 Gilles
+"(gallic acid equivalent, GAE)으로 나타내었다.            (1965)의 방법을 따랐다. 분말 1 g에 냉수(4°C) 또는 온수"
+"색도는 색차계(CR400, Konica Minolta Sensing)를 사용      (82°C) 40 mL를 첨가하여 간헐적으로 30분간 교반하였다."
+"하여 명도(lightness, L), 적색도(redness, a), 황색도(yel-    3,061×g에서 20분 동안 원심분리한 후(5810R), 상층액을"
+"lowness, b)를 측정하였다. 표준 백색판을 이용하여 cali-            제거한 침전물의 무게를 측정하였다. 원 시료 무게에 대한"
+"bration 한 후, L값은 0(검은색)에서 100(흰색)까지, a값은          침전물의 증가한 무게 %를 물 결합력으로 계산하였다."
+"-80(녹색)에서 100(적색)까지, b값은 -70(청색)에서 70(황             점도 측정을 위해 혼합곡물에 증류수를 첨가하여 발효 혼"
+색)까지의 범위에서 색도를 측정하였다. 표준 백색판의 값                   합곡물의 동결건조 전 슬러지 상태와 농도를 동일하게 맞추
+"은 L=97.10, a=-0.02, b=1.82였다.                     었다. Viscometer(LVDV-II+Pro, Brookfield Engineering"
+Laboratories)에 spindle(No.64)을 장착하고 22.7±0.5°C
+아미노산 조성 분석                                        에서 시료를 교반하면서 점도를 측정하였다. 분산성 확인을
+아미노산 분석을 위한 전처리는 Hitachi에서 공급한 매뉴               위해 분말 0.5 g에 증류수(9.5 mL)를 넣고 충분히 교반한
+얼에 수록된 방법을 일부 변형하여 수행하였다. 구성아미노                   후 실온에서 정치하였다. 침강지수(sedimentation index)는
+산 분석을 위해 시료 약 400~500 mg에 6 N HCl을 약 10           용액 높이(H2)에 대한 침전물 높이(H1)의 백분율로 나타내
+mL 첨가하여 110°C에서 22시간 동안 가수분해하였다. 이                었다(100×H1/H2).
+                           유산균 발효로 제조된 곡물기반 식품 신소재의 이화학적 특성                                                        1285
+
+
+
+산화안정성 평가                                           Table 1. Changes in the chemical compositions and color of
+Kornbrust와 Mavis(1980)의 방법을 변형하여 분말의 산           grain mixture (GM) by lactic acid bacteria fermentation
+
+화안정성을 평가하였다. 분말을 철과 ascorbic acid를 포함                                                            Fermented     Signifi-
+Composition             GM
+GM         cance2)
+"한 산화유도 시스템에 노출한 후, 시간 경과에 따른 ma-"
+Moisture (%)                 1.9±0.61)      6.5±0.1      ***
+londialdehyde(MDA) 생성량을 측정하였다. 분말(2 g)에                 Protein (%)                22.8±1.2       22.0±0.1       NS
+1.15% KCl 21 mL를 첨가하여 homogenizer(Wise Mix                                        (23.2±1.1)     (23.5±0.1)     (NS)
+HG-15)로 1분 동안 균질화하였다. 여기서 2.5 mL를 취하                    Ash (%)                      2.7±0.1        2.4±0.1      **
+(2.8±0.0)      (2.6±0.1)     (*)
+"여 80 mM tris-malate buffer(pH 7.4) 12.5 mL, 5 mM        Fat (%)                      6.8±1.2        5.6±0.1      NS"
+"FeSO4･7H2O 5 mL, 2 mM ascorbic acid 5 mL를 차례대로                                      (7.1±0.9)      (6.0±0.0)    (NS)"
+넣고 10초 동안 교반한 후 37°C 항온수조(BS-21)에 넣었                    Carbohydrates (%)          65.6±1.5       63.5±0.2       NS
+(66.9±1.8)     (67.9±0.2)     (NS)
+다. 반응액을 항온수조에 넣은 시점(0분)부터 반응 진행 후
+Dietary fiber (%)          11.3±1.1         5.3±3.5       *
+"20, 40, 60, 90, 150, 210, 270, 330분에 반응액 중 2 mL를                                  (11.9±1.1)       (6.4±3.0)     (*)"
+취해 TBA-TCA-HCl이 혼합된 반응 시약(15% TCA+                      Soluble solids (°Bx)         0.9±0.0        2.0±0.0      ***
+"0.37% TBA in 0.25 N HCl) 4 mL를 넣고 교반한 후, 100°C          Titratable acidity        1,309±94       4,779±89        ***"
+(mg% as lactic acid)
+에서 정확히 15분 동안 반응시켰다. 차가운 물로 식혀 반응                       pH                         6.27±0.01      3.60±0.04      ***
+"을 종결시키고 1,811×g에서 15분 동안 원심분리(5810R)                    Total reducing capacity    225±240       2,371±111       ***"
+하였다. 상층액을 spectrophotometer(UV-1650)로 531                 (μg/g GAE)
+Color L                   75.52±0.64     61.02±5.14      **
+nm에서 흡광도를 측정함으로써 반응액 속에 형성된 MDA-
+a                  3.53±0.18      6.61±0.52      ***
+"TBA complex를 정량하였다. MDA 전구체인 1,1,3,3-tet-                       b                 24.82±0.32     26.23±1.69      NS"
+raethoxypropane을 사용하여 표준정량곡선을 작성하였다.               1)
+The value was expressed as the mean±standard deviation of
+triplicate experiments. The value in parentheses represents the
+concentration calculated on a dry basis.
+통계처리                                               2)
+"*, **, and *** mean that the values within the same row are"
+"모든 실험은 3회 반복하였으며 평균±표준편차로 나타내                      significantly different at P<0.05, P<0.01, and P<0.001, respec-"
+었다. 혼합곡물과 발효 혼합곡물의 이화학적 특성 비교는                       tively. NS means ‘not significant’.
+t-test(Microsoft Office Excel)로 차이의 유의성을 확인하
+"였다.                                                해효소 및 단백질 분해효소의 작용으로(Kim 등, 2016), 가"
+용성 고형분 함량은 0.9°Bx에서 2.0°Bx로 유의적으로(P<
+"결과 및 고찰                           0.001) 증가하였다. 젖산 당량으로 나타낸 적정산도의 경우,"
+"발효 혼합곡물은 4,779 mg%로 발효 전 1,309 mg%보다 유"
+유산균 발효가 혼합곡물의 화학적 조성과 색도에 미친 영향                    의적으로(P<0.001) 높았다. 이는 유산균이 보유한 효소작
+"콩, 보리, 현미, 밀로 구성된 혼합곡물의 일반성분을 분석                 용으로 고분자 탄수화물이 가수분해되어 포도당이 생성되고"
+"한 결과(Table 1), 단백질 함량은 22.8%로 탄수화물(65.6            이로부터 젖산 등 유기산이 생성된 결과이다. 실험에 사용된"
+"%) 다음으로 높았으며 식이섬유가 11.3%를 차지하였다. 이                 Streptococcus 속 S. lactis, S. thermophilus, Lactobacil-"
+혼합곡물에 유산균을 접종하여 37°C에서 5일 동안 발효하                   lus 속 L. acidophilus는 포도당 등의 6탄당을 기질로 젖산
+여 제조한 발효 혼합곡물은 수분함량이 6.5%로 발효 전(1.9                을 생성하는 대표적 정상 발효(homofermentative) 젖산균
+"%)보다 유의적으로(P<0.001) 높았으나, 탄수화물과 단백                 이다. 또한 Bifidobacterium 속 B. longum은 포도당을 탄소"
+질은 발효 전과 유의적으로 다르지 않았다. 반면 식이섬유                    원으로 하여 bifidus pathway를 거쳐 젖산과 초산을 2:3의
+"함량은 11.3%에서 발효 후 5.3%로 유의적으로(P<0.05) 감             비율로 생성하는 것으로 알려져 있다(Axelsson, 1998). 이"
+"소하였으며, 수분에 의한 희석효과를 고려해도 6.4%로 계산                  들 젖산균이 생성한 유기산으로 발효 혼합곡물의 pH는 6.27"
+되어 발효에 의해 유의적으로 감소했음을 알 수 있었다. 이                   에서 3.60으로 유의적으로(P<0.001) 감소하였다.
+"는 발효식품에서 관찰되는 전형적인 현상으로, 미생물의 효                          페놀성 및 비페놀성 환원물질을 정량한 총환원력은 갈산"
+"소적 분해작용으로 혼합곡물 속 고분자의 식이섬유가 저분                     당량으로 혼합곡물이 225 μg/g, 발효 혼합곡물이 2,371 μg/"
+"자화된 결과이다. 발효 후 식이섬유의 유의적 감소에도 불구                   g으로, 발효 이후 10.5배까지 유의적으로(P<0.001) 증가하"
+하고 탄수화물 총량이 일정하게 유지된 결과는 분석법에서                     였다(Table 1). 이는 탄수화물 분해효소의 작용으로 환원당
+"기인하였다. 즉 식이섬유는 효소중량법으로 직접 정량되었                     이 증가하고, β-글루코시다아제(β-glucosidase)에 의해 배"
+"지만, 탄수화물은 차감법으로 산출되어 식이섬유 및 이들이                    당체 형태의 폴리페놀이 가수분해되어 비배당체로 전환된"
+분해된 당 모두를 포괄한 값이므로 식이섬유만의 변화를 반                    결과로 해석된다. 실제로 유산균 발효에 의해 콩 속 배당체에
+"영할 수 없었기 때문이다. 한편, 유산균이 지닌 탄수화물 분                  서 비배당체가 생산된 결과들이 보고된 바 있으며(Donkor"
+1286                                                     장기효 ․ 서정희
+
+
+
+"와 Shah, 2008; Kim 등, 2010), 본 실험에서 사용된 B. lon-                    분자들의 입체장애가 감소해 Maillard 갈변반응의 반응속도"
+"gum KCTC 5734는 다양한 비피더스균 중에서도 배당체                                 가 빨라진 결과로 해석하였다(BeMiller와 Huber, 2007)."
+"이소플라본을 비배당체로 전환시키는 전환율이 매우 높은                                     실제로 아미노산 분석 결과(Table 2), 유리아미노산 함량의"
+"것으로 보고되었다(Kim 등, 2014a). 비배당체는 배당체보                               경우 혼합곡물은 276 mg%로 총 아미노산 함량의 1.3%를"
+"다 장내흡수율이 높을 뿐 아니라 동일한 몰 농도를 기준으로                                  차지했지만, 발효 혼합곡물은 619 mg%로 전체 아미노산의"
+"했을 때 항산화 활성도 높은 것으로 알려져 있다. 일례로,                                  3.2%를 차지함으로써 유산균 발효 중 곡물 속 단백질이 가"
+Kim 등(2014b)은 페놀성 플라보노이드인 캠페롤과 그 배당                               수분해되었음을 시사하였다. 발효 여부와 관계없이 두 곡물
+"체들의 항산화 활성을 비교한 연구에서, 분자구조가 동일한                                   의 주요한 아미노산은 글루탐산(glutamic acid)> 프롤린"
+물질이라도 배당체에서 당이 제거됨에 따라 DPPH 라디칼                                   (proline)> 아스파르트산(aspartic acid)> 아르기닌(argi-
+소거 활성 등 항산화 활성이 증가한 현상을 확인하였다.                                    nine)≈루신(leucine) 순으로 확인되었다. 아미노산 분석 결
+"한편, 혼합곡물은 발효 후 색 특성에서 유의적 변화가 관                              과에서 주목할 만한 특징으로는 첫째, 발효로 γ-amino-n-"
+"찰되었다(Table 1, Fig. 1). 명도가 75.52에서 61.02로 유                       butyric acid(GABA) 함량이 8 mg%에서 77 mg%로 증가하"
+"의적으로(P<0.01) 감소하였고, 적색도는 3.53에서 6.61로                             였고 이와 함께 글루탐산 함량은 감소하였다. 신경전달물질"
+"유의적으로(P<0.001) 증가하였다. 이는 발효 중 미생물에                                의 일종인 GABA는 혈압강하 기능성을 지닌 아미노산으로,"
+"의한 효소작용으로 혼합곡물 속 탄수화물과 단백질이 가수                                    글루탐산 탈탄산효소(glutamate decarboxylase, GAD)의"
+분해되어 저분자화되면서 카르보닐기와 아미노기를 보유한                                     작용으로 글루탐산에서 카르복실기가 제거되어 생성된다
+"(Yogeswara 등, 2020). 둘째, 혼합곡물에서는 검출되지 않                                  혼합곡물과 발효 혼합곡물의 입도분포를 측정한 결과는"
+았던 오르니틴(ornithine)과 시트룰린(citrulline)이 발효 후                            Fig. 2A와 같다. 두 곡물은 100 μm 이하의 입자들이 차지하
+"각각 109 mg%와 27 mg% 농도로 확인되었고, 이와 함께                                   는 부피비율(volume fraction)이 서로 다르지 않았다. 그러"
+유리형태의 아르기닌이 123 mg%에서 2 mg%로 감소하였                                     나 100~200 μm 입자크기 영역에서 혼합곡물은 bimodal
+"다. 아르기닌은 아르기닌 디이미나아제(arginine deimi-                                  형태의 입도분포를 보였던 반면, 발효 혼합곡물은 이보다"
+"nase, ADI)의 작용에 의해 항비만인자인 오르니틴을 생성                                    입자크기가 작은 영역으로 그래프가 shift 된 현상이 관찰되"
+"하고 그 과정에서 중간산물로 시트룰린을 생성한다(Inoue                                      었다. 입도분포도의 10%, 50%, 90% 지점에서의 입자크기"
+"등, 2022). 발효 혼합곡물에서 관찰된 이러한 변화는 본 실                                   를 비교했을 때, 발효 혼합곡물은 각각 8.382, 33.821,"
+"험에서 사용한 S. thermophilus와 S. lactis가 지닌 GAD                            104.690 μm로 혼합곡물(9.897, 55.157, 160.812 μm)보다"
+"활성(Hagi 등, 2016; Kim과 Choi, 2022)과 S. lactis가 지닌                      작았다(Table 3). 또한 입자크기를 표면적 평균직경(d32)과"
+"ADI 활성(Crow와 Thomas, 1982; Inoue 등, 2022)에서                           부피 평균직경(d43)으로 산출했을 때도 발효 혼합곡물이 각"
+"기인한 것으로 해석된다.                                                         각 18.00, 42.43 μm로 혼합곡물(24.52, 69.89 μm)보다 작"
+았다. 이에 따라 입자의 총표면적을 총부피로 나눈 비표면적
+유산균 발효가 혼합곡물의 입자특성과 물 결합력에 미친                                         (specific surface area per volume)에서 발효 혼합곡물은
+2   3                  2   3
+"영향                                                                    3,333.53 cm /cm 로 혼합곡물(2,446.51 cm /cm )보다 1.4"
+
+
+A                                                                  B
+
+
+
+
+Fig. 2. Changes in the particle size distribution (A) and sedimentation index (B) of grain mixture (GM) by lactic acid bacteria
+fermentation.
+
+
+"Table 3. Changes in the particle size distribution, water-holding capacity, and viscosity of grain mixture (GM) by lactic acid bacteria"
+1)
+fermentation
+Physical property                                       GM                Fermented GM            Significance
+Particle size distribution2)
+Diameter (μm) at 10%                                                 9.897                    8.382
+at 50%                                             55.157                   33.821
+at 90%                                             160.812                 104.690
+"Specific surface area per volume (cm2/cm3)                         2,446.51                 3,333.53"
+Surface weighted mean diameter d32 (μm)                              24.52                    18.00
+Volume weighted mean diameter d43 (μm)                               69.89                    42.43
+Water-holding capacity (%)
+Cold water (4°C)                                                   174±2                   107±4                     ***
+Hot water (82°C)                                                   303±64                  165±15                     *
+Significance                                                          *                      **
+"Viscosity (cP)                                                3,062±759               909±156                 **"
+1)
+"Data are average±standard deviation of triplicate experiments, except particle size measurement. *, **, and *** mean that the"
+"values are significantly different at P<0.05, P<0.01, and P<0.001, respectively."
+2)
+Values are the average of 100 scans.
+1288                                  장기효 ․ 서정희
+
+
+
+배 높았다(Table 3). 이 결과들은 혼합곡물의 입자크기가
+"발효 공정으로 뚜렷하게 감소했음을 보여주는 것으로, 미생"
+물의 효소적 분해작용으로 곡물 속 고분자들이 저분자화된
+결과로 해석된다.
+발효 혼합곡물의 입자크기 감소는 침강속도 실험 결과에
+그대로 반영되었다(Fig. 2B). 각 분말을 증류수와 교반한
+"후 정치했을 때, 발효 혼합곡물은 혼합곡물보다 상대적으로"
+느린 속도로 침강하였으며 60초 경과 시 침강지수가 8.09%
+로 혼합곡물(20.88%)보다 뚜렷이 낮았다. 이는 발효 혼합곡
+물의 가용성 고형분 함량이 유의적으로 높았던 결과(Table
+"1) 및 입자크기가 유의적으로 작았던 결과(Fig. 2A, Table"
+3)와 일치한다. 즉 현탁액 고유의 특성 중 하나인 “중력에
+"의한 입자의 침강현상”이 발효 혼합곡물에서 감소한 것은,"
+발효 후 곡물을 구성하는 입자 일부가 교질용액이나 진용액
+Fig. 3. Malondialdehyde content induced in grain mixture (GM)
+형성이 가능한 크기로 작아졌음을 의미한다. 이는 앞서 언급            and fermented GM when subjected to the oxidation-accelerating
+"한 대로, 유산균 발효 중 효소에 의해 불용성의 고분자 물질           system. At the same time point, values are significantly different"
+이 저분자량의 물질로 분해되어 용액 내에 용해되거나 분산             at P<0.05.
+되었기 때문이다.
+"두 곡물의 물 결합력을 분석한 결과(Table 3), 발효 혼합       산화를 지연시켜 MDA 생성을 감소시킨 것으로 해석된다."
+곡물은 냉수(P<0.001)와 온수(P<0.05) 모두에서 혼합곡물
+보다 유의적으로 낮았다. 이에 따라 점도 역시 909 cP로                                      요       약
+"혼합곡물(3,062 cP)보다 유의적으로(P<0.01) 낮았다. 이는"
+우수한 수분보유력을 지닌 식이섬유가 발효 혼합곡물에서               본 연구에서는 곡물기반 새로운 식품원료를 제조하기 위해
+"유의적으로 감소했던 현상과 연관된 것으로 보인다(Table            콩, 보리, 현미, 밀로 구성된 “혼합곡물”에 유산균 발효 공정"
+"1). 한편, 두 곡물은 냉수보다 온수에서 유의적으로(P<0.05)       을 적용하였다. 3종 복합유산균인 Streptococcus lactis,"
+"높은 물 결합력을 나타내었는데, 이 현상은 분말이 온수에             Streptococcus thermophilus, Lactobacillus acidophilus"
+분산된 경우 전분 입자 내부로 수분침투 속도가 빨라 전분의            와 비피더스균인 Bifidobacterium longum KCTC 5734를
+"수화가 용이하고, 또한 온수에 의해 전분이 부분적으로 호화            혼합곡물에 첨가하여 37°C에서 호기적으로 5일 동안 배양"
+"된 결과로 해석된다(BeMiller와 Huber, 2007). 발효 혼합    한 후 동결건조하여 “발효 혼합곡물”을 제조하였다. 유산균"
+"곡물에서는 미생물에 의한 효소적 분해작용으로 식이섬유               발효로 제조된 발효 혼합곡물은 혼합곡물과 비교할 때 첫째,"
+뿐 아니라 다당류인 전분도 감소하게 되어 온수에서도 낮은             식이섬유와 구성아미노산은 감소하였고 가용성 고형분과
+물 결합력을 보인 것으로 해석된다.                         유리아미노산은 증가하였다. 또한 적정산도의 증가로 pH가
+감소한 현상이 관찰되었다. 이는 유산균과 비피더스균이 지
+유산균 발효가 혼합곡물의 산화안정성에 미친 영향                  닌 탄수화물 분해효소와 단백질 분해효소의 작용으로 저분
+"혼합곡물을 산화유도 시스템에 노출해 산화안정성을 평              자 물질이 생성되고, 탄수화물 분해로 생성된 포도당이 젖산"
+가한 결과는 Fig. 3과 같다. 330분 노출 동안 두 곡물 모두       발효와 bifidus pathway를 거쳐 젖산 및 초산을 생성한 결
+"지방산화의 이차생성물인 MDA 함량은 증가하는 경향을 나             과로 해석하였다. 둘째, 총환원력은 10배 이상 높았고, 산화"
+타내었다. 그러나 동일 조건에서 발효 혼합곡물은 혼합곡물             유도 시스템하에서는 상대적으로 적은 양의 MDA를 생성함
+"보다 MDA 생성량이 유의적으로(P<0.05) 낮아, 발효 후 산        으로써 개선된 산화안정성을 보여주었다. 이 현상은 유산균"
+화안정성이 개선되었음을 확인해주었다. 이 결과는 혼합곡              과 비피더스균이 보유한 β-글루코시다아제의 작용으로 배
+물 속 환원물질이 전자를 전달하는 능력을 측정한 총환원력             당체가 산화방지 활성이 더 우수한 비배당체로 전환되었기
+"결과와도 일치한다(Table 1). 지방산화는 지방산에 라디칼          때문으로 해석하였다. 셋째, 기능성 아미노산으로 알려진"
+"이 생성되면서 개시되고, 과산화물 생성과 분해를 거쳐 이차            GABA와 오르니틴 함량은 증가하였고, 이들의 전구체 아미"
+"산화물인 MDA가 생성된다(McClements와 Decker, 2007).   노산인 글루탐산과 아르기닌 함량은 감소하였다. 이는 S."
+발효 혼합곡물은 혼합곡물보다 10배 이상 높은 환원력을              thermophilus와 S. lactis가 지닌 글루탐산 탈탄산효소 활
+"보유하고 있었으며, 이는 지방산화의 초기 단계에서 생성된             성과 S. lactis가 지닌 아르기닌 디이미나아제 활성으로 해"
+"알킬 라디칼(R･)과 퍼옥시 라디칼(ROO･), 중간단계에서 생         석하였다. 넷째, 물리적 특성으로는 침강지수가 감소하여 혼"
+성되는 알콕시 라디칼(RO･) 등에 전자를 공여함으로써 지방           합곡물보다 우수한 분산성을 보여주었다. 이러한 결과는 혼
+                                     유산균 발효로 제조된 곡물기반 식품 신소재의 이화학적 특성                                                               1289
